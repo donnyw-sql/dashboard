@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <title>Personal Dashboard</title>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #0f1115;
+      color: #e8e8e8;
+      margin: 0;
+      padding: 20px;
+    }
+
+    h1 {
+      font-size: 22px;
+      margin-bottom: 20px;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 20px;
+    }
+
+    .card {
+      background: #1a1d24;
+      padding: 15px;
+      border-radius: 10px;
+    }
+
+    .title {
+      font-size: 14px;
+      opacity: 0.7;
+      margin-bottom: 10px;
+    }
+
+    .temp {
+      font-size: 26px;
+      margin: 5px 0;
+    }
+
+    .small {
+      font-size: 13px;
+      opacity: 0.8;
+    }
+  </style>
+</head>
+
+<body>
+
+  <h1>🌐 Personal Dashboard</h1>
+
+  <div class="grid">
+
+    <div class="card">
+      <div class="title">Weather — Location A (ZIP 93422)</div>
+      <div id="weatherA" class="temp">Loading...</div>
+      <div id="descA" class="small"></div>
+    </div>
+
+    <div class="card">
+      <div class="title">Weather — Location B (ZIP 90210)</div>
+      <div id="weatherB" class="temp">Loading...</div>
+      <div id="descB" class="small"></div>
+    </div>
+
+  </div>
+
+<script>
+/*
+  NOTE:
+  Open-Meteo uses lat/lon, so these are sample conversions:
+  93422 → Atascadero-ish
+  90210 → Beverly Hills
+*/
+
+const locations = {
+  A: { lat: 35.4894, lon: -120.6707, name: "Location A" },
+  B: { lat: 34.0901, lon: -118.4065, name: "Location B" }
+};
+
+async function getWeather(lat, lon) {
+  const url =
+    `https://api.open-meteo.com/v1/forecast` +
+    `?latitude=${lat}&longitude=${lon}` +
+    `&current=temperature_2m,weather_code`;
+
+  const res = await fetch(url);
+  return await res.json();
+}
+
+function weatherCodeToText(code) {
+  const map = {
+    0: "Clear sky ☀️",
+    1: "Mostly clear 🌤️",
+    2: "Partly cloudy ⛅",
+    3: "Overcast ☁️",
+    45: "Fog 🌫️",
+    48: "Rime fog 🌫️",
+    51: "Light drizzle 🌦️",
+    61: "Rain 🌧️",
+    71: "Snow ❄️",
+    80: "Rain showers 🌦️",
+  };
+
+  return map[code] || "Unknown weather";
+}
+
+async function loadAllWeather() {
+
+  // Location A
+  const a = await getWeather(locations.A.lat, locations.A.lon);
+  document.getElementById("weatherA").innerText =
+    `${a.current.temperature_2m}°C`;
+
+  document.getElementById("descA").innerText =
+    weatherCodeToText(a.current.weather_code);
+
+  // Location B
+  const b = await getWeather(locations.B.lat, locations.B.lon);
+  document.getElementById("weatherB").innerText =
+    `${b.current.temperature_2m}°C`;
+
+  document.getElementById("descB").innerText =
+    weatherCodeToText(b.current.weather_code);
+}
+
+loadAllWeather();
+</script>
+
+</body>
+</html>
