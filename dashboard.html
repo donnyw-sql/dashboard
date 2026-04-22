@@ -187,6 +187,7 @@ document.getElementById("weatherA").innerText =
 document.getElementById("descA").innerText =
   weatherCodeToText(a.current.weather_code);
   
+console.log("calling forecast A");
 renderForecast(a, "forecastA");
   
 // Location B
@@ -201,8 +202,9 @@ document.getElementById("weatherB").innerText =
 document.getElementById("descB").innerText =
   weatherCodeToText(b.current.weather_code);}
 
- renderForecast(a, "forecastB");
-
+console.log("calling forecast B");
+renderForecast(b, "forecastB");
+  
 loadAllWeather();
 </script>
 
