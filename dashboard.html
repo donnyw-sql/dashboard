@@ -101,13 +101,7 @@
 
   </div>
 
-<script>
-/*
-  NOTE:
-  Open-Meteo uses lat/lon, so these are sample conversions:
-  93422 → Atascadero-ish
-  90210 → Beverly Hills
-*/
+console.log("SCRIPT RUNNING");
 
 const locations = {
   A: { lat: 35.4894, lon: -120.6707, label: "Atascadero" },
@@ -115,13 +109,7 @@ const locations = {
 };
 
 async function getWeather(lat, lon) {
-  const url =
-  `https://api.open-meteo.com/v1/forecast` +
-  `?latitude=${lat}&longitude=${lon}` +
-  `&current=temperature_2m,weather_code` +
-  `&daily=temperature_2m_max,temperature_2m_min,weather_code` +
-  `&temperature_unit=fahrenheit` +
-  `&timezone=auto`;
+  const url = `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current=temperature_2m,weather_code&temperature_unit=fahrenheit&timezone=auto`;
 
   const res = await fetch(url);
   return await res.json();
@@ -134,79 +122,28 @@ function weatherCodeToText(code) {
     2: "Partly cloudy ⛅",
     3: "Overcast ☁️",
     45: "Fog 🌫️",
-    48: "Rime fog 🌫️",
-    51: "Light drizzle 🌦️",
     61: "Rain 🌧️",
-    71: "Snow ❄️",
-    80: "Rain showers 🌦️",
   };
 
-  return map[code] || "Unknown weather";
-}
-
-function renderForecast(data, elementId) {
-  const container = document.getElementById(elementId);
-  container.innerHTML = "";
-
-  for (let i = 0; i < 3; i++) {
-    const max = Math.round(data.daily.temperature_2m_max[i]);
-    const min = Math.round(data.daily.temperature_2m_min[i]);
-    const code = data.daily.weather_code[i];
-
-    const label =
-      i === 0 ? "Today" :
-      i === 1 ? "Tomorrow" :
-      "Next";
-
-    const div = document.createElement("div");
-    div.className = "forecast-card";
-
-    div.innerHTML = `
-      <div class="forecast-title">${label}</div>
-      <div class="forecast-temp">${max}° / ${min}°</div>
-      <div class="forecast-desc">${weatherCodeToText(code)}</div>
-    `;
-
-    container.appendChild(div);
-  }
-}
-  return map[code] || "Unknown weather";
+  return map[code] || "Weather";
 }
 
 async function loadAllWeather() {
+  console.log("LOADING WEATHER");
 
-// Location A
-const a = await getWeather(locations.A.lat, locations.A.lon);
+  const a = await getWeather(locations.A.lat, locations.A.lon);
+  const b = await getWeather(locations.B.lat, locations.B.lon);
 
-document.getElementById("titleA").innerText =
-  `Weather — ${locations.A.label}`;
+  document.getElementById("titleA").innerText = `Weather — ${locations.A.label}`;
+  document.getElementById("weatherA").innerText = `${a.current.temperature_2m}°F`;
+  document.getElementById("descA").innerText = weatherCodeToText(a.current.weather_code);
 
-document.getElementById("weatherA").innerText =
-  `${a.current.temperature_2m}°F`;
+  document.getElementById("titleB").innerText = `Weather — ${locations.B.label}`;
+  document.getElementById("weatherB").innerText = `${b.current.temperature_2m}°F`;
+  document.getElementById("descB").innerText = weatherCodeToText(b.current.weather_code);
+}
 
-document.getElementById("descA").innerText =
-  weatherCodeToText(a.current.weather_code);
-  
-console.log("calling forecast A");
-renderForecast(a, "forecastA");
-  
-// Location B
-const b = await getWeather(locations.B.lat, locations.B.lon);
-
-document.getElementById("titleB").innerText =
-  `Weather — ${locations.B.label}`;
-
-document.getElementById("weatherB").innerText =
-  `${b.current.temperature_2m}°F`;
-
-document.getElementById("descB").innerText =
-  weatherCodeToText(b.current.weather_code);}
-
-console.log("calling forecast B");
-renderForecast(b, "forecastB");
-  
 loadAllWeather();
-</script>
 
 </body>
 </html>
