@@ -117,10 +117,10 @@ async function getWeather(lat, lon) {
   const url =
   `https://api.open-meteo.com/v1/forecast` +
   `?latitude=${lat}&longitude=${lon}` +
-&current=temperature_2m,weather_code
-&daily=temperature_2m_max,temperature_2m_min,weather_code
-&timezone=auto +
-  `&temperature_unit=fahrenheit`;
+  `&current=temperature_2m,weather_code` +
+  `&daily=temperature_2m_max,temperature_2m_min,weather_code` +
+  `&temperature_unit=fahrenheit` +
+  `&timezone=auto`;
 
   const res = await fetch(url);
   return await res.json();
