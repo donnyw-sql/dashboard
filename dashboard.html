@@ -183,7 +183,7 @@ document.getElementById("weatherA").innerText =
 document.getElementById("descA").innerText =
   weatherCodeToText(a.current.weather_code);
   
-  renderForecast(a, "forecastA");
+// renderForecast(a, "forecastA");
   
 // Location B
 const b = await getWeather(locations.B.lat, locations.B.lon);
@@ -197,7 +197,7 @@ document.getElementById("weatherB").innerText =
 document.getElementById("descB").innerText =
   weatherCodeToText(b.current.weather_code);}
 
-  renderForecast(a, "forecastB");
+ // renderForecast(a, "forecastB");
 
 loadAllWeather();
 </script>
