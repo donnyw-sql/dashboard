@@ -45,6 +45,34 @@
       font-size: 13px;
       opacity: 0.8;
     }
+    .forecast-row {
+  display: flex;
+  gap: 10px;
+  margin-top: 12px;
+}
+
+.forecast-card {
+  background: #1a1d24;
+  border-radius: 10px;
+  padding: 8px;
+  flex: 1;
+}
+
+.forecast-title {
+  font-size: 11px;
+  opacity: 0.7;
+  margin-bottom: 4px;
+}
+
+.forecast-temp {
+  font-size: 16px;
+  margin: 2px 0;
+}
+
+.forecast-desc {
+  font-size: 11px;
+  opacity: 0.8;
+}
   </style>
 </head>
 
@@ -58,12 +86,16 @@
       <div class="title" id="titleA"></div>
       <div id="weatherA" class="temp">Loading...</div>
       <div id="descA" class="small"></div>
+        <div class="forecast-row" id="forecastA"></div>
+
     </div>
 
     <div class="card">
       <div class="title" id="titleB"></div>
       <div id="weatherB" class="temp">Loading...</div>
       <div id="descB" class="small"></div>
+        <div class="forecast-row" id="forecastB"></div>
+
     </div>
 
   </div>
@@ -85,7 +117,9 @@ async function getWeather(lat, lon) {
   const url =
   `https://api.open-meteo.com/v1/forecast` +
   `?latitude=${lat}&longitude=${lon}` +
-  `&current=temperature_2m,weather_code` +
+&current=temperature_2m,weather_code
+&daily=temperature_2m_max,temperature_2m_min,weather_code
+&timezone=auto +
   `&temperature_unit=fahrenheit`;
 
   const res = await fetch(url);
@@ -106,6 +140,32 @@ function weatherCodeToText(code) {
     80: "Rain showers 🌦️",
   };
 
+  function renderForecast(data, elementId) {
+  const container = document.getElementById(elementId);
+  container.innerHTML = "";
+
+  for (let i = 0; i < 3; i++) {
+    const max = Math.round(data.daily.temperature_2m_max[i]);
+    const min = Math.round(data.daily.temperature_2m_min[i]);
+    const code = data.daily.weather_code[i];
+
+    const label =
+      i === 0 ? "Today" :
+      i === 1 ? "Tomorrow" :
+      "Next";
+
+    const div = document.createElement("div");
+    div.className = "forecast-card";
+
+    div.innerHTML = `
+      <div class="forecast-title">${label}</div>
+      <div class="forecast-temp">${max}° / ${min}°</div>
+      <div class="forecast-desc">${weatherCodeToText(code)}</div>
+    `;
+
+    container.appendChild(div);
+  }
+}
   return map[code] || "Unknown weather";
 }
 
@@ -123,6 +183,8 @@ document.getElementById("weatherA").innerText =
 document.getElementById("descA").innerText =
   weatherCodeToText(a.current.weather_code);
   
+  renderForecast(a, "forecastA");
+  
 // Location B
 const b = await getWeather(locations.B.lat, locations.B.lon);
 
@@ -134,6 +196,8 @@ document.getElementById("weatherB").innerText =
 
 document.getElementById("descB").innerText =
   weatherCodeToText(b.current.weather_code);}
+
+  renderForecast(a, "forecastB");
 
 loadAllWeather();
 </script>
