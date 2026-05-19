@@ -154,6 +154,11 @@
         "name": "Colson Montgomery",
         "team": "?",
         "value": "13"
+      },
+      {
+        "name": "Jordan Walker",
+        "team": "?",
+        "value": "13"
       }
     ],
     "rbi": [
@@ -206,6 +211,21 @@
         "name": "Cody Bellinger",
         "team": "?",
         "value": "32"
+      },
+      {
+        "name": "Oneil Cruz",
+        "team": "?",
+        "value": "32"
+      },
+      {
+        "name": "Munetaka Murakami",
+        "team": "?",
+        "value": "32"
+      },
+      {
+        "name": "Sal Stewart",
+        "team": "?",
+        "value": "32"
       }
     ],
     "sb": [
@@ -256,6 +276,11 @@
       },
       {
         "name": "Shane McClanahan",
+        "team": "?",
+        "value": "8"
+      },
+      {
+        "name": "Framber Valdez",
         "team": "?",
         "value": "8"
       }
@@ -362,6 +387,71 @@
         "name": "Spencer Arrighetti",
         "team": "?",
         "value": "5"
+      },
+      {
+        "name": "Chase Burns",
+        "team": "?",
+        "value": "5"
+      },
+      {
+        "name": "Aaron Civale",
+        "team": "?",
+        "value": "5"
+      },
+      {
+        "name": "Nathan Eovaldi",
+        "team": "?",
+        "value": "5"
+      },
+      {
+        "name": "Sonny Gray",
+        "team": "?",
+        "value": "5"
+      },
+      {
+        "name": "George Kirby",
+        "team": "?",
+        "value": "5"
+      },
+      {
+        "name": "Kyle Leahy",
+        "team": "?",
+        "value": "5"
+      },
+      {
+        "name": "Shane McClanahan",
+        "team": "?",
+        "value": "5"
+      },
+      {
+        "name": "Parker Messick",
+        "team": "?",
+        "value": "5"
+      },
+      {
+        "name": "Bailey Ober",
+        "team": "?",
+        "value": "5"
+      },
+      {
+        "name": "Landen Roupp",
+        "team": "?",
+        "value": "5"
+      },
+      {
+        "name": "Cristopher S?nchez",
+        "team": "?",
+        "value": "5"
+      },
+      {
+        "name": "Randy V?squez",
+        "team": "?",
+        "value": "5"
+      },
+      {
+        "name": "Will Warren",
+        "team": "?",
+        "value": "5"
       }
     ],
     "saves": [
@@ -414,6 +504,16 @@
         "name": "Jhoan Duran",
         "team": "?",
         "value": "8"
+      },
+      {
+        "name": "Raisel Iglesias",
+        "team": "?",
+        "value": "8"
+      },
+      {
+        "name": "Andr?s Mu?oz",
+        "team": "?",
+        "value": "8"
       }
     ],
     "strikeouts": [
@@ -464,6 +564,21 @@
       },
       {
         "name": "Shota Imanaga",
+        "team": "?",
+        "value": "61"
+      },
+      {
+        "name": "Jes?s Luzardo",
+        "team": "?",
+        "value": "61"
+      },
+      {
+        "name": "Ryan Weathers",
+        "team": "?",
+        "value": "61"
+      },
+      {
+        "name": "Jacob deGrom",
         "team": "?",
         "value": "61"
       }
@@ -624,6 +739,11 @@
         "name": "Colson Montgomery",
         "team": "?",
         "value": "13"
+      },
+      {
+        "name": "Jordan Walker",
+        "team": "?",
+        "value": "13"
       }
     ],
     "rbi": [
@@ -676,6 +796,21 @@
         "name": "Cody Bellinger",
         "team": "?",
         "value": "32"
+      },
+      {
+        "name": "Oneil Cruz",
+        "team": "?",
+        "value": "32"
+      },
+      {
+        "name": "Munetaka Murakami",
+        "team": "?",
+        "value": "32"
+      },
+      {
+        "name": "Sal Stewart",
+        "team": "?",
+        "value": "32"
       }
     ],
     "sb": [
@@ -726,6 +861,11 @@
       },
       {
         "name": "Shane McClanahan",
+        "team": "?",
+        "value": "8"
+      },
+      {
+        "name": "Framber Valdez",
         "team": "?",
         "value": "8"
       }
@@ -832,6 +972,71 @@
         "name": "Spencer Arrighetti",
         "team": "?",
         "value": "5"
+      },
+      {
+        "name": "Chase Burns",
+        "team": "?",
+        "value": "5"
+      },
+      {
+        "name": "Aaron Civale",
+        "team": "?",
+        "value": "5"
+      },
+      {
+        "name": "Nathan Eovaldi",
+        "team": "?",
+        "value": "5"
+      },
+      {
+        "name": "Sonny Gray",
+        "team": "?",
+        "value": "5"
+      },
+      {
+        "name": "George Kirby",
+        "team": "?",
+        "value": "5"
+      },
+      {
+        "name": "Kyle Leahy",
+        "team": "?",
+        "value": "5"
+      },
+      {
+        "name": "Shane McClanahan",
+        "team": "?",
+        "value": "5"
+      },
+      {
+        "name": "Parker Messick",
+        "team": "?",
+        "value": "5"
+      },
+      {
+        "name": "Bailey Ober",
+        "team": "?",
+        "value": "5"
+      },
+      {
+        "name": "Landen Roupp",
+        "team": "?",
+        "value": "5"
+      },
+      {
+        "name": "Cristopher S?nchez",
+        "team": "?",
+        "value": "5"
+      },
+      {
+        "name": "Randy V?squez",
+        "team": "?",
+        "value": "5"
+      },
+      {
+        "name": "Will Warren",
+        "team": "?",
+        "value": "5"
       }
     ],
     "saves": [
@@ -884,6 +1089,16 @@
         "name": "Jhoan Duran",
         "team": "?",
         "value": "8"
+      },
+      {
+        "name": "Raisel Iglesias",
+        "team": "?",
+        "value": "8"
+      },
+      {
+        "name": "Andr?s Mu?oz",
+        "team": "?",
+        "value": "8"
       }
     ],
     "strikeouts": [
@@ -934,6 +1149,21 @@
       },
       {
         "name": "Shota Imanaga",
+        "team": "?",
+        "value": "61"
+      },
+      {
+        "name": "Jes?s Luzardo",
+        "team": "?",
+        "value": "61"
+      },
+      {
+        "name": "Ryan Weathers",
+        "team": "?",
+        "value": "61"
+      },
+      {
+        "name": "Jacob deGrom",
         "team": "?",
         "value": "61"
       }
