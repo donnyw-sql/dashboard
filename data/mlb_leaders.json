@@ -54,14 +54,14 @@
     ],
     "ops": [
       {
-        "name": "Yordan Alvarez",
-        "team": "?",
-        "value": "1.065"
-      },
-      {
         "name": "Ben Rice",
         "team": "?",
         "value": "1.062"
+      },
+      {
+        "name": "Yordan Alvarez",
+        "team": "?",
+        "value": "1.060"
       },
       {
         "name": "Shea Langeliers",
@@ -470,14 +470,473 @@
     ]
   },
   "NL": {
-    "avg": [],
-    "ops": [],
-    "hr": [],
-    "rbi": [],
-    "sb": [],
-    "era": [],
-    "wins": [],
-    "saves": [],
-    "strikeouts": []
+    "avg": [
+      {
+        "name": "Paul Skenes",
+        "team": "?",
+        "value": ".161"
+      },
+      {
+        "name": "Jacob Misiorowski",
+        "team": "?",
+        "value": ".162"
+      },
+      {
+        "name": "Cam Schlittler",
+        "team": "?",
+        "value": ".168"
+      },
+      {
+        "name": "Jos? Soriano",
+        "team": "?",
+        "value": ".181"
+      },
+      {
+        "name": "Chris Sale",
+        "team": "?",
+        "value": ".183"
+      },
+      {
+        "name": "Chase Burns",
+        "team": "?",
+        "value": ".186"
+      },
+      {
+        "name": "Bryce Elder",
+        "team": "?",
+        "value": ".187"
+      },
+      {
+        "name": "Michael McGreevy",
+        "team": "?",
+        "value": ".189"
+      },
+      {
+        "name": "Nolan McLean",
+        "team": "?",
+        "value": ".189"
+      },
+      {
+        "name": "Michael King",
+        "team": "?",
+        "value": ".191"
+      }
+    ],
+    "ops": [
+      {
+        "name": "Ben Rice",
+        "team": "?",
+        "value": "1.062"
+      },
+      {
+        "name": "Yordan Alvarez",
+        "team": "?",
+        "value": "1.060"
+      },
+      {
+        "name": "Shea Langeliers",
+        "team": "?",
+        "value": ".997"
+      },
+      {
+        "name": "Mickey Moniak",
+        "team": "?",
+        "value": ".989"
+      },
+      {
+        "name": "Aaron Judge",
+        "team": "?",
+        "value": ".988"
+      },
+      {
+        "name": "Kyle Schwarber",
+        "team": "?",
+        "value": ".981"
+      },
+      {
+        "name": "Jordan Walker",
+        "team": "?",
+        "value": ".955"
+      },
+      {
+        "name": "Corbin Carroll",
+        "team": "?",
+        "value": ".947"
+      },
+      {
+        "name": "Munetaka Murakami",
+        "team": "?",
+        "value": ".943"
+      },
+      {
+        "name": "Matt Olson",
+        "team": "?",
+        "value": ".941"
+      }
+    ],
+    "hr": [
+      {
+        "name": "Kyle Schwarber",
+        "team": "?",
+        "value": "20"
+      },
+      {
+        "name": "Munetaka Murakami",
+        "team": "?",
+        "value": "17"
+      },
+      {
+        "name": "Aaron Judge",
+        "team": "?",
+        "value": "16"
+      },
+      {
+        "name": "Yordan Alvarez",
+        "team": "?",
+        "value": "15"
+      },
+      {
+        "name": "Byron Buxton",
+        "team": "?",
+        "value": "15"
+      },
+      {
+        "name": "Ben Rice",
+        "team": "?",
+        "value": "15"
+      },
+      {
+        "name": "Matt Olson",
+        "team": "?",
+        "value": "14"
+      },
+      {
+        "name": "Drake Baldwin",
+        "team": "?",
+        "value": "13"
+      },
+      {
+        "name": "Junior Caminero",
+        "team": "?",
+        "value": "13"
+      },
+      {
+        "name": "Colson Montgomery",
+        "team": "?",
+        "value": "13"
+      }
+    ],
+    "rbi": [
+      {
+        "name": "Liam Hicks",
+        "team": "?",
+        "value": "42"
+      },
+      {
+        "name": "Andy Pages",
+        "team": "?",
+        "value": "41"
+      },
+      {
+        "name": "CJ Abrams",
+        "team": "?",
+        "value": "39"
+      },
+      {
+        "name": "Drake Baldwin",
+        "team": "?",
+        "value": "38"
+      },
+      {
+        "name": "Matt Olson",
+        "team": "?",
+        "value": "38"
+      },
+      {
+        "name": "Kyle Schwarber",
+        "team": "?",
+        "value": "36"
+      },
+      {
+        "name": "Jonathan Aranda",
+        "team": "?",
+        "value": "35"
+      },
+      {
+        "name": "Jordan Walker",
+        "team": "?",
+        "value": "34"
+      },
+      {
+        "name": "Alec Burleson",
+        "team": "?",
+        "value": "33"
+      },
+      {
+        "name": "Cody Bellinger",
+        "team": "?",
+        "value": "32"
+      }
+    ],
+    "sb": [
+      {
+        "name": "Eury P?rez",
+        "team": "?",
+        "value": "17"
+      },
+      {
+        "name": "Drew Rasmussen",
+        "team": "?",
+        "value": "11"
+      },
+      {
+        "name": "Joey Cantillo",
+        "team": "?",
+        "value": "10"
+      },
+      {
+        "name": "Robbie Ray",
+        "team": "?",
+        "value": "10"
+      },
+      {
+        "name": "Joe Ryan",
+        "team": "?",
+        "value": "10"
+      },
+      {
+        "name": "Jos? Alvarado",
+        "team": "?",
+        "value": "8"
+      },
+      {
+        "name": "Spencer Arrighetti",
+        "team": "?",
+        "value": "8"
+      },
+      {
+        "name": "Dylan Cease",
+        "team": "?",
+        "value": "8"
+      },
+      {
+        "name": "Reid Detmers",
+        "team": "?",
+        "value": "8"
+      },
+      {
+        "name": "Shane McClanahan",
+        "team": "?",
+        "value": "8"
+      }
+    ],
+    "era": [
+      {
+        "name": "Cam Schlittler",
+        "team": "?",
+        "value": "1.35"
+      },
+      {
+        "name": "Nick Martinez",
+        "team": "?",
+        "value": "1.51"
+      },
+      {
+        "name": "Davis Martin",
+        "team": "?",
+        "value": "1.61"
+      },
+      {
+        "name": "Cristopher S?nchez",
+        "team": "?",
+        "value": "1.82"
+      },
+      {
+        "name": "Chase Burns",
+        "team": "?",
+        "value": "1.87"
+      },
+      {
+        "name": "Chris Sale",
+        "team": "?",
+        "value": "1.96"
+      },
+      {
+        "name": "Bryce Elder",
+        "team": "?",
+        "value": "2.01"
+      },
+      {
+        "name": "Michael McGreevy",
+        "team": "?",
+        "value": "2.10"
+      },
+      {
+        "name": "Jacob Misiorowski",
+        "team": "?",
+        "value": "2.12"
+      },
+      {
+        "name": "Michael King",
+        "team": "?",
+        "value": "2.31"
+      }
+    ],
+    "wins": [
+      {
+        "name": "Aaron Ashby",
+        "team": "?",
+        "value": "8"
+      },
+      {
+        "name": "Davis Martin",
+        "team": "?",
+        "value": "6"
+      },
+      {
+        "name": "Chris Sale",
+        "team": "?",
+        "value": "6"
+      },
+      {
+        "name": "Cam Schlittler",
+        "team": "?",
+        "value": "6"
+      },
+      {
+        "name": "Paul Skenes",
+        "team": "?",
+        "value": "6"
+      },
+      {
+        "name": "Jos? Soriano",
+        "team": "?",
+        "value": "6"
+      },
+      {
+        "name": "Michael Soroka",
+        "team": "?",
+        "value": "6"
+      },
+      {
+        "name": "Gavin Williams",
+        "team": "?",
+        "value": "6"
+      },
+      {
+        "name": "Justin Wrobleski",
+        "team": "?",
+        "value": "6"
+      },
+      {
+        "name": "Spencer Arrighetti",
+        "team": "?",
+        "value": "5"
+      }
+    ],
+    "saves": [
+      {
+        "name": "Mason Miller",
+        "team": "?",
+        "value": "15"
+      },
+      {
+        "name": "Cade Smith",
+        "team": "?",
+        "value": "14"
+      },
+      {
+        "name": "Riley O'Brien",
+        "team": "?",
+        "value": "13"
+      },
+      {
+        "name": "Bryan Baker",
+        "team": "?",
+        "value": "12"
+      },
+      {
+        "name": "David Bednar",
+        "team": "?",
+        "value": "11"
+      },
+      {
+        "name": "Aroldis Chapman",
+        "team": "?",
+        "value": "11"
+      },
+      {
+        "name": "Lucas Erceg",
+        "team": "?",
+        "value": "11"
+      },
+      {
+        "name": "Seranthony Dom?nguez",
+        "team": "?",
+        "value": "10"
+      },
+      {
+        "name": "Paul Sewald",
+        "team": "?",
+        "value": "10"
+      },
+      {
+        "name": "Jhoan Duran",
+        "team": "?",
+        "value": "8"
+      }
+    ],
+    "strikeouts": [
+      {
+        "name": "Jacob Misiorowski",
+        "team": "?",
+        "value": "80"
+      },
+      {
+        "name": "Cristopher S?nchez",
+        "team": "?",
+        "value": "80"
+      },
+      {
+        "name": "Dylan Cease",
+        "team": "?",
+        "value": "75"
+      },
+      {
+        "name": "Gavin Williams",
+        "team": "?",
+        "value": "73"
+      },
+      {
+        "name": "Cam Schlittler",
+        "team": "?",
+        "value": "68"
+      },
+      {
+        "name": "Jos? Soriano",
+        "team": "?",
+        "value": "67"
+      },
+      {
+        "name": "Nolan McLean",
+        "team": "?",
+        "value": "64"
+      },
+      {
+        "name": "Chris Sale",
+        "team": "?",
+        "value": "64"
+      },
+      {
+        "name": "Paul Skenes",
+        "team": "?",
+        "value": "63"
+      },
+      {
+        "name": "Shota Imanaga",
+        "team": "?",
+        "value": "61"
+      }
+    ]
   }
 }
