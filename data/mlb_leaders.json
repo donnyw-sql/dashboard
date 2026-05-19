@@ -2,605 +2,940 @@
   "AL": {
     "avg": [
       {
-        "name": "Cam Schlittler",
         "display": "C. Schlittler",
+        "team": "?",
         "value": ".168"
       },
       {
-        "name": "Jos? Soriano",
         "display": "J. Soriano",
+        "team": "?",
         "value": ".181"
+      },
+      {
+        "display": "M. Wacha",
+        "team": "?",
+        "value": ".193"
+      },
+      {
+        "display": "M. Fried",
+        "team": "?",
+        "value": ".199"
+      },
+      {
+        "display": "K. Bubic",
+        "team": "?",
+        "value": ".200"
+      },
+      {
+        "display": "J. Ryan",
+        "team": "?",
+        "value": ".201"
+      },
+      {
+        "display": "J. deGrom",
+        "team": "?",
+        "value": ".201"
+      },
+      {
+        "display": "P. Messick",
+        "team": "?",
+        "value": ".206"
+      },
+      {
+        "display": "J. Ginn",
+        "team": "?",
+        "value": ".207"
+      },
+      {
+        "display": "B. Ober",
+        "team": "?",
+        "value": ".208"
       }
     ],
     "ops": [
       {
-        "name": "Ben Rice",
         "display": "B. Rice",
+        "team": "?",
         "value": "1.062"
       },
       {
-        "name": "Yordan Alvarez",
         "display": "Y. Alvarez",
+        "team": "?",
         "value": "1.061"
       },
       {
-        "name": "Shea Langeliers",
         "display": "S. Langeliers",
-        "value": "1.000"
+        "team": "?",
+        "value": ".994"
       },
       {
-        "name": "Aaron Judge",
         "display": "A. Judge",
+        "team": "?",
         "value": ".988"
       },
       {
-        "name": "Munetaka Murakami",
         "display": "M. Murakami",
+        "team": "?",
         "value": ".937"
+      },
+      {
+        "display": "N. Kurtz",
+        "team": "?",
+        "value": ".911"
+      },
+      {
+        "display": "R. Greene",
+        "team": "?",
+        "value": ".907"
+      },
+      {
+        "display": "B. Buxton",
+        "team": "?",
+        "value": ".899"
+      },
+      {
+        "display": "Y. D?az",
+        "team": "?",
+        "value": ".867"
+      },
+      {
+        "display": "M. Trout",
+        "team": "?",
+        "value": ".866"
       }
     ],
     "hr": [
       {
-        "name": "Munetaka Murakami",
         "display": "M. Murakami",
+        "team": "?",
         "value": "17"
       },
       {
-        "name": "Aaron Judge",
         "display": "A. Judge",
+        "team": "?",
         "value": "16"
       },
       {
-        "name": "Yordan Alvarez",
         "display": "Y. Alvarez",
+        "team": "?",
         "value": "15"
       },
       {
-        "name": "Byron Buxton",
         "display": "B. Buxton",
+        "team": "?",
         "value": "15"
       },
       {
-        "name": "Ben Rice",
         "display": "B. Rice",
+        "team": "?",
         "value": "15"
       },
       {
-        "name": "Junior Caminero",
         "display": "J. Caminero",
+        "team": "?",
         "value": "13"
       },
       {
-        "name": "Colson Montgomery",
         "display": "C. Montgomery",
+        "team": "?",
         "value": "13"
+      },
+      {
+        "display": "S. Langeliers",
+        "team": "?",
+        "value": "12"
+      },
+      {
+        "display": "M. Trout",
+        "team": "?",
+        "value": "11"
+      },
+      {
+        "display": "M. Vargas",
+        "team": "?",
+        "value": "11"
       }
     ],
     "rbi": [
       {
-        "name": "Jonathan Aranda",
         "display": "J. Aranda",
+        "team": "?",
         "value": "35"
       },
       {
-        "name": "Cody Bellinger",
         "display": "C. Bellinger",
+        "team": "?",
         "value": "32"
       },
       {
-        "name": "Munetaka Murakami",
         "display": "M. Murakami",
+        "team": "?",
         "value": "32"
+      },
+      {
+        "display": "Y. Alvarez",
+        "team": "?",
+        "value": "31"
+      },
+      {
+        "display": "J. Burger",
+        "team": "?",
+        "value": "31"
+      },
+      {
+        "display": "Y. D?az",
+        "team": "?",
+        "value": "31"
+      },
+      {
+        "display": "C. Montgomery",
+        "team": "?",
+        "value": "31"
+      },
+      {
+        "display": "B. Rice",
+        "team": "?",
+        "value": "31"
+      },
+      {
+        "display": "C. DeLauter",
+        "team": "?",
+        "value": "30"
+      },
+      {
+        "display": "A. Judge",
+        "team": "?",
+        "value": "30"
       }
     ],
     "sb": [
       {
-        "name": "Drew Rasmussen",
         "display": "D. Rasmussen",
+        "team": "?",
         "value": "11"
       },
       {
-        "name": "Joey Cantillo",
         "display": "J. Cantillo",
+        "team": "?",
         "value": "10"
       },
       {
-        "name": "Joe Ryan",
         "display": "J. Ryan",
+        "team": "?",
         "value": "10"
       },
       {
-        "name": "Spencer Arrighetti",
         "display": "S. Arrighetti",
+        "team": "?",
         "value": "8"
       },
       {
-        "name": "Dylan Cease",
         "display": "D. Cease",
+        "team": "?",
         "value": "8"
       },
       {
-        "name": "Reid Detmers",
         "display": "R. Detmers",
+        "team": "?",
         "value": "8"
       },
       {
-        "name": "Shane McClanahan",
         "display": "S. McClanahan",
+        "team": "?",
         "value": "8"
       },
       {
-        "name": "Framber Valdez",
         "display": "F. Valdez",
+        "team": "?",
         "value": "8"
+      },
+      {
+        "display": "A. Banda",
+        "team": "?",
+        "value": "7"
+      },
+      {
+        "display": "S. Burke",
+        "team": "?",
+        "value": "7"
       }
     ],
     "era": [
       {
-        "name": "Cam Schlittler",
         "display": "C. Schlittler",
+        "team": "?",
         "value": "1.35"
       },
       {
-        "name": "Nick Martinez",
         "display": "N. Martinez",
+        "team": "?",
         "value": "1.51"
       },
       {
-        "name": "Davis Martin",
         "display": "D. Martin",
+        "team": "?",
         "value": "1.61"
+      },
+      {
+        "display": "P. Messick",
+        "team": "?",
+        "value": "2.35"
+      },
+      {
+        "display": "D. Cease",
+        "team": "?",
+        "value": "2.41"
+      },
+      {
+        "display": "J. Soriano",
+        "team": "?",
+        "value": "2.41"
+      },
+      {
+        "display": "J. Ginn",
+        "team": "?",
+        "value": "2.74"
+      },
+      {
+        "display": "M. Wacha",
+        "team": "?",
+        "value": "2.83"
+      },
+      {
+        "display": "E. Hancock",
+        "team": "?",
+        "value": "3.02"
+      },
+      {
+        "display": "J. deGrom",
+        "team": "?",
+        "value": "3.02"
       }
     ],
     "wins": [
       {
-        "name": "Davis Martin",
         "display": "D. Martin",
+        "team": "?",
         "value": "6"
       },
       {
-        "name": "Cam Schlittler",
         "display": "C. Schlittler",
+        "team": "?",
         "value": "6"
       },
       {
-        "name": "Jos? Soriano",
         "display": "J. Soriano",
+        "team": "?",
         "value": "6"
       },
       {
-        "name": "Gavin Williams",
         "display": "G. Williams",
+        "team": "?",
         "value": "6"
       },
       {
-        "name": "Spencer Arrighetti",
         "display": "S. Arrighetti",
+        "team": "?",
         "value": "5"
       },
       {
-        "name": "Aaron Civale",
         "display": "A. Civale",
+        "team": "?",
         "value": "5"
       },
       {
-        "name": "Nathan Eovaldi",
         "display": "N. Eovaldi",
+        "team": "?",
         "value": "5"
       },
       {
-        "name": "Sonny Gray",
         "display": "S. Gray",
+        "team": "?",
         "value": "5"
       },
       {
-        "name": "George Kirby",
         "display": "G. Kirby",
+        "team": "?",
         "value": "5"
       },
       {
-        "name": "Shane McClanahan",
         "display": "S. McClanahan",
-        "value": "5"
-      },
-      {
-        "name": "Parker Messick",
-        "display": "P. Messick",
-        "value": "5"
-      },
-      {
-        "name": "Bailey Ober",
-        "display": "B. Ober",
-        "value": "5"
-      },
-      {
-        "name": "Will Warren",
-        "display": "W. Warren",
+        "team": "?",
         "value": "5"
       }
     ],
     "saves": [
       {
-        "name": "Cade Smith",
         "display": "C. Smith",
+        "team": "?",
         "value": "14"
       },
       {
-        "name": "Bryan Baker",
         "display": "B. Baker",
+        "team": "?",
         "value": "12"
       },
       {
-        "name": "David Bednar",
         "display": "D. Bednar",
+        "team": "?",
         "value": "11"
       },
       {
-        "name": "Aroldis Chapman",
         "display": "A. Chapman",
+        "team": "?",
         "value": "11"
       },
       {
-        "name": "Lucas Erceg",
         "display": "L. Erceg",
+        "team": "?",
         "value": "11"
       },
       {
-        "name": "Seranthony Dom?nguez",
         "display": "S. Dom?nguez",
+        "team": "?",
         "value": "10"
       },
       {
-        "name": "Andr?s Mu?oz",
         "display": "A. Mu?oz",
+        "team": "?",
         "value": "8"
+      },
+      {
+        "display": "R. Helsley",
+        "team": "?",
+        "value": "7"
+      },
+      {
+        "display": "K. Jansen",
+        "team": "?",
+        "value": "7"
+      },
+      {
+        "display": "J. Latz",
+        "team": "?",
+        "value": "5"
       }
     ],
     "strikeouts": [
       {
-        "name": "Dylan Cease",
         "display": "D. Cease",
+        "team": "?",
         "value": "75"
       },
       {
-        "name": "Gavin Williams",
         "display": "G. Williams",
+        "team": "?",
         "value": "73"
       },
       {
-        "name": "Cam Schlittler",
         "display": "C. Schlittler",
+        "team": "?",
         "value": "68"
       },
       {
-        "name": "Jos? Soriano",
         "display": "J. Soriano",
+        "team": "?",
         "value": "67"
       },
       {
-        "name": "Ryan Weathers",
         "display": "R. Weathers",
+        "team": "?",
         "value": "61"
       },
       {
-        "name": "Jacob deGrom",
         "display": "J. deGrom",
+        "team": "?",
         "value": "61"
+      },
+      {
+        "display": "D. Martin",
+        "team": "?",
+        "value": "59"
+      },
+      {
+        "display": "W. Warren",
+        "team": "?",
+        "value": "59"
+      },
+      {
+        "display": "P. Messick",
+        "team": "?",
+        "value": "58"
+      },
+      {
+        "display": "L. Gilbert",
+        "team": "?",
+        "value": "57"
       }
     ]
   },
   "NL": {
     "avg": [
       {
-        "name": "Paul Skenes",
         "display": "P. Skenes",
+        "team": "?",
         "value": ".161"
       },
       {
-        "name": "Jacob Misiorowski",
         "display": "J. Misiorowski",
+        "team": "?",
         "value": ".162"
       },
       {
-        "name": "Chris Sale",
         "display": "C. Sale",
+        "team": "?",
         "value": ".183"
       },
       {
-        "name": "Chase Burns",
         "display": "C. Burns",
+        "team": "?",
         "value": ".186"
       },
       {
-        "name": "Bryce Elder",
         "display": "B. Elder",
+        "team": "?",
         "value": ".187"
       },
       {
-        "name": "Michael McGreevy",
         "display": "M. McGreevy",
+        "team": "?",
         "value": ".189"
       },
       {
-        "name": "Nolan McLean",
         "display": "N. McLean",
+        "team": "?",
         "value": ".189"
       },
       {
-        "name": "Michael King",
         "display": "M. King",
+        "team": "?",
         "value": ".191"
+      },
+      {
+        "display": "L. Roupp",
+        "team": "?",
+        "value": ".198"
+      },
+      {
+        "display": "M. Meyer",
+        "team": "?",
+        "value": ".203"
       }
     ],
     "ops": [
       {
-        "name": "Mickey Moniak",
         "display": "M. Moniak",
-        "value": ".996"
+        "team": "?",
+        "value": ".989"
       },
       {
-        "name": "Kyle Schwarber",
         "display": "K. Schwarber",
+        "team": "?",
         "value": ".981"
       },
       {
-        "name": "Jordan Walker",
         "display": "J. Walker",
+        "team": "?",
         "value": ".955"
       },
       {
-        "name": "Corbin Carroll",
         "display": "C. Carroll",
+        "team": "?",
         "value": ".947"
       },
       {
-        "name": "Matt Olson",
         "display": "M. Olson",
+        "team": "?",
         "value": ".941"
+      },
+      {
+        "display": "D. Baldwin",
+        "team": "?",
+        "value": ".932"
+      },
+      {
+        "display": "B. Harper",
+        "team": "?",
+        "value": ".922"
+      },
+      {
+        "display": "C. Abrams",
+        "team": "?",
+        "value": ".913"
+      },
+      {
+        "display": "J. Wood",
+        "team": "?",
+        "value": ".911"
+      },
+      {
+        "display": "I. Vargas",
+        "team": "?",
+        "value": ".906"
       }
     ],
     "hr": [
       {
-        "name": "Kyle Schwarber",
         "display": "K. Schwarber",
+        "team": "?",
         "value": "20"
       },
       {
-        "name": "Matt Olson",
         "display": "M. Olson",
+        "team": "?",
         "value": "14"
       },
       {
-        "name": "Drake Baldwin",
         "display": "D. Baldwin",
+        "team": "?",
         "value": "13"
       },
       {
-        "name": "Jordan Walker",
         "display": "J. Walker",
+        "team": "?",
         "value": "13"
+      },
+      {
+        "display": "B. Harper",
+        "team": "?",
+        "value": "12"
+      },
+      {
+        "display": "B. Lowe",
+        "team": "?",
+        "value": "12"
+      },
+      {
+        "display": "M. Moniak",
+        "team": "?",
+        "value": "12"
+      },
+      {
+        "display": "M. Muncy",
+        "team": "?",
+        "value": "12"
+      },
+      {
+        "display": "J. Wood",
+        "team": "?",
+        "value": "12"
+      },
+      {
+        "display": "E. De La Cruz",
+        "team": "?",
+        "value": "11"
       }
     ],
     "rbi": [
       {
-        "name": "Liam Hicks",
         "display": "L. Hicks",
+        "team": "?",
         "value": "42"
       },
       {
-        "name": "Andy Pages",
         "display": "A. Pages",
+        "team": "?",
         "value": "41"
       },
       {
-        "name": "CJ Abrams",
         "display": "C. Abrams",
+        "team": "?",
         "value": "39"
       },
       {
-        "name": "Drake Baldwin",
         "display": "D. Baldwin",
+        "team": "?",
         "value": "38"
       },
       {
-        "name": "Matt Olson",
         "display": "M. Olson",
+        "team": "?",
         "value": "38"
       },
       {
-        "name": "Kyle Schwarber",
         "display": "K. Schwarber",
+        "team": "?",
         "value": "36"
       },
       {
-        "name": "Jordan Walker",
         "display": "J. Walker",
+        "team": "?",
         "value": "34"
       },
       {
-        "name": "Alec Burleson",
         "display": "A. Burleson",
+        "team": "?",
         "value": "33"
       },
       {
-        "name": "Oneil Cruz",
         "display": "O. Cruz",
+        "team": "?",
         "value": "32"
       },
       {
-        "name": "Sal Stewart",
         "display": "S. Stewart",
+        "team": "?",
         "value": "32"
       }
     ],
     "sb": [
       {
-        "name": "Eury P?rez",
         "display": "E. P?rez",
+        "team": "?",
         "value": "17"
       },
       {
-        "name": "Robbie Ray",
         "display": "R. Ray",
+        "team": "?",
         "value": "10"
       },
       {
-        "name": "Jos? Alvarado",
         "display": "J. Alvarado",
+        "team": "?",
         "value": "8"
+      },
+      {
+        "display": "A. Abbott",
+        "team": "?",
+        "value": "7"
+      },
+      {
+        "display": "S. Alcantara",
+        "team": "?",
+        "value": "7"
+      },
+      {
+        "display": "E. Cabrera",
+        "team": "?",
+        "value": "7"
+      },
+      {
+        "display": "K. Freeland",
+        "team": "?",
+        "value": "7"
+      },
+      {
+        "display": "M. Keller",
+        "team": "?",
+        "value": "7"
+      },
+      {
+        "display": "M. Liberatore",
+        "team": "?",
+        "value": "7"
+      },
+      {
+        "display": "R. L?pez",
+        "team": "?",
+        "value": "7"
       }
     ],
     "era": [
       {
-        "name": "Cristopher S?nchez",
         "display": "C. S?nchez",
+        "team": "?",
         "value": "1.82"
       },
       {
-        "name": "Chase Burns",
         "display": "C. Burns",
+        "team": "?",
         "value": "1.87"
       },
       {
-        "name": "Chris Sale",
         "display": "C. Sale",
+        "team": "?",
         "value": "1.96"
       },
       {
-        "name": "Bryce Elder",
         "display": "B. Elder",
+        "team": "?",
         "value": "2.01"
       },
       {
-        "name": "Michael McGreevy",
         "display": "M. McGreevy",
+        "team": "?",
         "value": "2.10"
       },
       {
-        "name": "Jacob Misiorowski",
         "display": "J. Misiorowski",
+        "team": "?",
         "value": "2.12"
       },
       {
-        "name": "Michael King",
         "display": "M. King",
+        "team": "?",
         "value": "2.31"
+      },
+      {
+        "display": "C. Holmes",
+        "team": "?",
+        "value": "2.39"
+      },
+      {
+        "display": "J. Wrobleski",
+        "team": "?",
+        "value": "2.49"
+      },
+      {
+        "display": "E. Rodriguez",
+        "team": "?",
+        "value": "2.53"
       }
     ],
     "wins": [
       {
-        "name": "Aaron Ashby",
         "display": "A. Ashby",
+        "team": "?",
         "value": "8"
       },
       {
-        "name": "Chris Sale",
         "display": "C. Sale",
+        "team": "?",
         "value": "6"
       },
       {
-        "name": "Paul Skenes",
         "display": "P. Skenes",
+        "team": "?",
         "value": "6"
       },
       {
-        "name": "Michael Soroka",
         "display": "M. Soroka",
+        "team": "?",
         "value": "6"
       },
       {
-        "name": "Justin Wrobleski",
         "display": "J. Wrobleski",
+        "team": "?",
         "value": "6"
       },
       {
-        "name": "Chase Burns",
         "display": "C. Burns",
+        "team": "?",
         "value": "5"
       },
       {
-        "name": "Kyle Leahy",
         "display": "K. Leahy",
+        "team": "?",
         "value": "5"
       },
       {
-        "name": "Landen Roupp",
         "display": "L. Roupp",
+        "team": "?",
         "value": "5"
       },
       {
-        "name": "Cristopher S?nchez",
         "display": "C. S?nchez",
+        "team": "?",
         "value": "5"
       },
       {
-        "name": "Randy V?squez",
         "display": "R. V?squez",
+        "team": "?",
         "value": "5"
       }
     ],
     "saves": [
       {
-        "name": "Mason Miller",
         "display": "M. Miller",
+        "team": "?",
         "value": "14"
       },
       {
-        "name": "Riley O'Brien",
         "display": "R. O'Brien",
+        "team": "?",
         "value": "13"
       },
       {
-        "name": "Paul Sewald",
         "display": "P. Sewald",
+        "team": "?",
         "value": "10"
       },
       {
-        "name": "Jhoan Duran",
         "display": "J. Duran",
+        "team": "?",
         "value": "8"
       },
       {
-        "name": "Raisel Iglesias",
         "display": "R. Iglesias",
+        "team": "?",
         "value": "8"
+      },
+      {
+        "display": "E. Pag?n",
+        "team": "?",
+        "value": "6"
+      },
+      {
+        "display": "D. Williams",
+        "team": "?",
+        "value": "6"
+      },
+      {
+        "display": "P. Fairbanks",
+        "team": "?",
+        "value": "5"
+      },
+      {
+        "display": "T. Megill",
+        "team": "?",
+        "value": "5"
+      },
+      {
+        "display": "E. D?az",
+        "team": "?",
+        "value": "4"
       }
     ],
     "strikeouts": [
       {
-        "name": "Jacob Misiorowski",
         "display": "J. Misiorowski",
+        "team": "?",
         "value": "80"
       },
       {
-        "name": "Cristopher S?nchez",
         "display": "C. S?nchez",
+        "team": "?",
         "value": "80"
       },
       {
-        "name": "Nolan McLean",
         "display": "N. McLean",
+        "team": "?",
         "value": "64"
       },
       {
-        "name": "Chris Sale",
         "display": "C. Sale",
+        "team": "?",
         "value": "64"
       },
       {
-        "name": "Paul Skenes",
         "display": "P. Skenes",
+        "team": "?",
         "value": "63"
       },
       {
-        "name": "Shota Imanaga",
         "display": "S. Imanaga",
+        "team": "?",
         "value": "61"
       },
       {
-        "name": "Jes?s Luzardo",
         "display": "J. Luzardo",
+        "team": "?",
         "value": "61"
+      },
+      {
+        "display": "M. Meyer",
+        "team": "?",
+        "value": "60"
+      },
+      {
+        "display": "M. King",
+        "team": "?",
+        "value": "59"
+      },
+      {
+        "display": "E. P?rez",
+        "team": "?",
+        "value": "58"
       }
     ]
   }
