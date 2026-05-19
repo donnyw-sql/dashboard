@@ -3,468 +3,468 @@
     "avg": [
       {
         "display": "C. Schlittler",
-        "team": "?",
+        "team": "New York Yankees",
         "value": ".168"
       },
       {
         "display": "J. Soriano",
-        "team": "?",
+        "team": "Los Angeles Angels",
         "value": ".181"
       },
       {
         "display": "M. Wacha",
-        "team": "?",
+        "team": "Kansas City Royals",
         "value": ".193"
       },
       {
         "display": "M. Fried",
-        "team": "?",
+        "team": "New York Yankees",
         "value": ".199"
       },
       {
         "display": "K. Bubic",
-        "team": "?",
+        "team": "Kansas City Royals",
+        "value": ".200"
+      },
+      {
+        "display": "J. Ginn",
+        "team": "Athletics",
         "value": ".200"
       },
       {
         "display": "J. Ryan",
-        "team": "?",
+        "team": "Minnesota Twins",
         "value": ".201"
       },
       {
         "display": "J. deGrom",
-        "team": "?",
+        "team": "Texas Rangers",
         "value": ".201"
       },
       {
         "display": "P. Messick",
-        "team": "?",
+        "team": "Cleveland Guardians",
         "value": ".206"
       },
       {
-        "display": "J. Ginn",
-        "team": "?",
-        "value": ".207"
-      },
-      {
         "display": "B. Ober",
-        "team": "?",
+        "team": "Minnesota Twins",
         "value": ".208"
       }
     ],
     "ops": [
       {
+        "display": "Y. Alvarez",
+        "team": "Houston Astros",
+        "value": "1.065"
+      },
+      {
         "display": "B. Rice",
-        "team": "?",
+        "team": "New York Yankees",
         "value": "1.062"
       },
       {
-        "display": "Y. Alvarez",
-        "team": "?",
-        "value": "1.061"
-      },
-      {
         "display": "S. Langeliers",
-        "team": "?",
-        "value": ".994"
+        "team": "Athletics",
+        "value": ".997"
       },
       {
         "display": "A. Judge",
-        "team": "?",
+        "team": "New York Yankees",
         "value": ".988"
       },
       {
         "display": "M. Murakami",
-        "team": "?",
+        "team": "Chicago White Sox",
         "value": ".937"
       },
       {
-        "display": "N. Kurtz",
-        "team": "?",
-        "value": ".911"
-      },
-      {
         "display": "R. Greene",
-        "team": "?",
+        "team": "Detroit Tigers",
         "value": ".907"
       },
       {
+        "display": "N. Kurtz",
+        "team": "Athletics",
+        "value": ".906"
+      },
+      {
         "display": "B. Buxton",
-        "team": "?",
+        "team": "Minnesota Twins",
         "value": ".899"
       },
       {
         "display": "Y. D?az",
-        "team": "?",
+        "team": "Tampa Bay Rays",
         "value": ".867"
       },
       {
         "display": "M. Trout",
-        "team": "?",
+        "team": "Los Angeles Angels",
         "value": ".866"
       }
     ],
     "hr": [
       {
         "display": "M. Murakami",
-        "team": "?",
+        "team": "Chicago White Sox",
         "value": "17"
       },
       {
         "display": "A. Judge",
-        "team": "?",
+        "team": "New York Yankees",
         "value": "16"
       },
       {
         "display": "Y. Alvarez",
-        "team": "?",
+        "team": "Houston Astros",
         "value": "15"
       },
       {
         "display": "B. Buxton",
-        "team": "?",
+        "team": "Minnesota Twins",
         "value": "15"
       },
       {
         "display": "B. Rice",
-        "team": "?",
+        "team": "New York Yankees",
         "value": "15"
       },
       {
         "display": "J. Caminero",
-        "team": "?",
+        "team": "Tampa Bay Rays",
         "value": "13"
       },
       {
         "display": "C. Montgomery",
-        "team": "?",
+        "team": "Chicago White Sox",
         "value": "13"
       },
       {
         "display": "S. Langeliers",
-        "team": "?",
+        "team": "Athletics",
         "value": "12"
       },
       {
         "display": "M. Trout",
-        "team": "?",
+        "team": "Los Angeles Angels",
         "value": "11"
       },
       {
         "display": "M. Vargas",
-        "team": "?",
+        "team": "Chicago White Sox",
         "value": "11"
       }
     ],
     "rbi": [
       {
         "display": "J. Aranda",
-        "team": "?",
+        "team": "Tampa Bay Rays",
         "value": "35"
       },
       {
         "display": "C. Bellinger",
-        "team": "?",
+        "team": "New York Yankees",
         "value": "32"
       },
       {
         "display": "M. Murakami",
-        "team": "?",
+        "team": "Chicago White Sox",
         "value": "32"
       },
       {
         "display": "Y. Alvarez",
-        "team": "?",
+        "team": "Houston Astros",
         "value": "31"
       },
       {
         "display": "J. Burger",
-        "team": "?",
+        "team": "Texas Rangers",
         "value": "31"
       },
       {
         "display": "Y. D?az",
-        "team": "?",
+        "team": "Tampa Bay Rays",
         "value": "31"
       },
       {
         "display": "C. Montgomery",
-        "team": "?",
+        "team": "Chicago White Sox",
         "value": "31"
       },
       {
         "display": "B. Rice",
-        "team": "?",
+        "team": "New York Yankees",
+        "value": "31"
+      },
+      {
+        "display": "C. Walker",
+        "team": "Houston Astros",
         "value": "31"
       },
       {
         "display": "C. DeLauter",
-        "team": "?",
-        "value": "30"
-      },
-      {
-        "display": "A. Judge",
-        "team": "?",
+        "team": "Cleveland Guardians",
         "value": "30"
       }
     ],
     "sb": [
       {
         "display": "D. Rasmussen",
-        "team": "?",
+        "team": "Tampa Bay Rays",
         "value": "11"
       },
       {
         "display": "J. Cantillo",
-        "team": "?",
+        "team": "Cleveland Guardians",
         "value": "10"
       },
       {
         "display": "J. Ryan",
-        "team": "?",
+        "team": "Minnesota Twins",
         "value": "10"
       },
       {
         "display": "S. Arrighetti",
-        "team": "?",
+        "team": "Houston Astros",
         "value": "8"
       },
       {
         "display": "D. Cease",
-        "team": "?",
+        "team": "Toronto Blue Jays",
         "value": "8"
       },
       {
         "display": "R. Detmers",
-        "team": "?",
+        "team": "Los Angeles Angels",
         "value": "8"
       },
       {
         "display": "S. McClanahan",
-        "team": "?",
+        "team": "Tampa Bay Rays",
         "value": "8"
       },
       {
         "display": "F. Valdez",
-        "team": "?",
+        "team": "Detroit Tigers",
         "value": "8"
       },
       {
         "display": "A. Banda",
-        "team": "?",
+        "team": "Minnesota Twins",
         "value": "7"
       },
       {
         "display": "S. Burke",
-        "team": "?",
+        "team": "Chicago White Sox",
         "value": "7"
       }
     ],
     "era": [
       {
         "display": "C. Schlittler",
-        "team": "?",
+        "team": "New York Yankees",
         "value": "1.35"
       },
       {
         "display": "N. Martinez",
-        "team": "?",
+        "team": "Tampa Bay Rays",
         "value": "1.51"
       },
       {
         "display": "D. Martin",
-        "team": "?",
+        "team": "Chicago White Sox",
         "value": "1.61"
       },
       {
         "display": "P. Messick",
-        "team": "?",
+        "team": "Cleveland Guardians",
         "value": "2.35"
       },
       {
         "display": "D. Cease",
-        "team": "?",
+        "team": "Toronto Blue Jays",
         "value": "2.41"
       },
       {
         "display": "J. Soriano",
-        "team": "?",
+        "team": "Los Angeles Angels",
         "value": "2.41"
       },
       {
         "display": "J. Ginn",
-        "team": "?",
-        "value": "2.74"
+        "team": "Athletics",
+        "value": "2.63"
       },
       {
         "display": "M. Wacha",
-        "team": "?",
+        "team": "Kansas City Royals",
         "value": "2.83"
       },
       {
         "display": "E. Hancock",
-        "team": "?",
+        "team": "Seattle Mariners",
         "value": "3.02"
       },
       {
         "display": "J. deGrom",
-        "team": "?",
+        "team": "Texas Rangers",
         "value": "3.02"
       }
     ],
     "wins": [
       {
         "display": "D. Martin",
-        "team": "?",
+        "team": "Chicago White Sox",
         "value": "6"
       },
       {
         "display": "C. Schlittler",
-        "team": "?",
+        "team": "New York Yankees",
         "value": "6"
       },
       {
         "display": "J. Soriano",
-        "team": "?",
+        "team": "Los Angeles Angels",
         "value": "6"
       },
       {
         "display": "G. Williams",
-        "team": "?",
+        "team": "Cleveland Guardians",
         "value": "6"
       },
       {
         "display": "S. Arrighetti",
-        "team": "?",
+        "team": "Houston Astros",
         "value": "5"
       },
       {
         "display": "A. Civale",
-        "team": "?",
+        "team": "Athletics",
         "value": "5"
       },
       {
         "display": "N. Eovaldi",
-        "team": "?",
+        "team": "Texas Rangers",
         "value": "5"
       },
       {
         "display": "S. Gray",
-        "team": "?",
+        "team": "Boston Red Sox",
         "value": "5"
       },
       {
         "display": "G. Kirby",
-        "team": "?",
+        "team": "Seattle Mariners",
         "value": "5"
       },
       {
         "display": "S. McClanahan",
-        "team": "?",
+        "team": "Tampa Bay Rays",
         "value": "5"
       }
     ],
     "saves": [
       {
         "display": "C. Smith",
-        "team": "?",
+        "team": "Cleveland Guardians",
         "value": "14"
       },
       {
         "display": "B. Baker",
-        "team": "?",
+        "team": "Tampa Bay Rays",
         "value": "12"
       },
       {
         "display": "D. Bednar",
-        "team": "?",
+        "team": "New York Yankees",
         "value": "11"
       },
       {
         "display": "A. Chapman",
-        "team": "?",
+        "team": "Boston Red Sox",
         "value": "11"
       },
       {
         "display": "L. Erceg",
-        "team": "?",
+        "team": "Kansas City Royals",
         "value": "11"
       },
       {
         "display": "S. Dom?nguez",
-        "team": "?",
+        "team": "Chicago White Sox",
         "value": "10"
       },
       {
         "display": "A. Mu?oz",
-        "team": "?",
+        "team": "Seattle Mariners",
         "value": "8"
       },
       {
         "display": "R. Helsley",
-        "team": "?",
+        "team": "Baltimore Orioles",
         "value": "7"
       },
       {
         "display": "K. Jansen",
-        "team": "?",
+        "team": "Detroit Tigers",
         "value": "7"
       },
       {
         "display": "J. Latz",
-        "team": "?",
+        "team": "Texas Rangers",
         "value": "5"
       }
     ],
     "strikeouts": [
       {
         "display": "D. Cease",
-        "team": "?",
+        "team": "Toronto Blue Jays",
         "value": "75"
       },
       {
         "display": "G. Williams",
-        "team": "?",
+        "team": "Cleveland Guardians",
         "value": "73"
       },
       {
         "display": "C. Schlittler",
-        "team": "?",
+        "team": "New York Yankees",
         "value": "68"
       },
       {
         "display": "J. Soriano",
-        "team": "?",
+        "team": "Los Angeles Angels",
         "value": "67"
       },
       {
         "display": "R. Weathers",
-        "team": "?",
+        "team": "New York Yankees",
         "value": "61"
       },
       {
         "display": "J. deGrom",
-        "team": "?",
+        "team": "Texas Rangers",
         "value": "61"
       },
       {
         "display": "D. Martin",
-        "team": "?",
+        "team": "Chicago White Sox",
         "value": "59"
       },
       {
         "display": "W. Warren",
-        "team": "?",
+        "team": "New York Yankees",
         "value": "59"
       },
       {
         "display": "P. Messick",
-        "team": "?",
+        "team": "Cleveland Guardians",
         "value": "58"
       },
       {
         "display": "L. Gilbert",
-        "team": "?",
+        "team": "Seattle Mariners",
         "value": "57"
       }
     ]
@@ -473,468 +473,468 @@
     "avg": [
       {
         "display": "P. Skenes",
-        "team": "?",
+        "team": "Pittsburgh Pirates",
         "value": ".161"
       },
       {
         "display": "J. Misiorowski",
-        "team": "?",
+        "team": "Milwaukee Brewers",
         "value": ".162"
       },
       {
         "display": "C. Sale",
-        "team": "?",
+        "team": "Atlanta Braves",
         "value": ".183"
       },
       {
         "display": "C. Burns",
-        "team": "?",
+        "team": "Cincinnati Reds",
         "value": ".186"
       },
       {
         "display": "B. Elder",
-        "team": "?",
+        "team": "Atlanta Braves",
         "value": ".187"
       },
       {
         "display": "M. McGreevy",
-        "team": "?",
+        "team": "St. Louis Cardinals",
         "value": ".189"
       },
       {
         "display": "N. McLean",
-        "team": "?",
+        "team": "New York Mets",
         "value": ".189"
       },
       {
         "display": "M. King",
-        "team": "?",
+        "team": "San Diego Padres",
         "value": ".191"
       },
       {
         "display": "L. Roupp",
-        "team": "?",
+        "team": "San Francisco Giants",
         "value": ".198"
       },
       {
         "display": "M. Meyer",
-        "team": "?",
+        "team": "Miami Marlins",
         "value": ".203"
       }
     ],
     "ops": [
       {
         "display": "M. Moniak",
-        "team": "?",
+        "team": "Colorado Rockies",
         "value": ".989"
       },
       {
         "display": "K. Schwarber",
-        "team": "?",
+        "team": "Philadelphia Phillies",
         "value": ".981"
       },
       {
         "display": "J. Walker",
-        "team": "?",
+        "team": "St. Louis Cardinals",
         "value": ".955"
       },
       {
         "display": "C. Carroll",
-        "team": "?",
+        "team": "Arizona Diamondbacks",
         "value": ".947"
       },
       {
         "display": "M. Olson",
-        "team": "?",
+        "team": "Atlanta Braves",
         "value": ".941"
       },
       {
         "display": "D. Baldwin",
-        "team": "?",
+        "team": "Atlanta Braves",
         "value": ".932"
       },
       {
         "display": "B. Harper",
-        "team": "?",
+        "team": "Philadelphia Phillies",
         "value": ".922"
       },
       {
         "display": "C. Abrams",
-        "team": "?",
+        "team": "Washington Nationals",
         "value": ".913"
       },
       {
         "display": "J. Wood",
-        "team": "?",
+        "team": "Washington Nationals",
         "value": ".911"
       },
       {
         "display": "I. Vargas",
-        "team": "?",
-        "value": ".906"
+        "team": "Arizona Diamondbacks",
+        "value": ".900"
       }
     ],
     "hr": [
       {
         "display": "K. Schwarber",
-        "team": "?",
+        "team": "Philadelphia Phillies",
         "value": "20"
       },
       {
         "display": "M. Olson",
-        "team": "?",
+        "team": "Atlanta Braves",
         "value": "14"
       },
       {
         "display": "D. Baldwin",
-        "team": "?",
+        "team": "Atlanta Braves",
         "value": "13"
       },
       {
         "display": "J. Walker",
-        "team": "?",
+        "team": "St. Louis Cardinals",
         "value": "13"
       },
       {
         "display": "B. Harper",
-        "team": "?",
+        "team": "Philadelphia Phillies",
         "value": "12"
       },
       {
         "display": "B. Lowe",
-        "team": "?",
+        "team": "Pittsburgh Pirates",
         "value": "12"
       },
       {
         "display": "M. Moniak",
-        "team": "?",
+        "team": "Colorado Rockies",
         "value": "12"
       },
       {
         "display": "M. Muncy",
-        "team": "?",
+        "team": "Los Angeles Dodgers",
         "value": "12"
       },
       {
         "display": "J. Wood",
-        "team": "?",
+        "team": "Washington Nationals",
         "value": "12"
       },
       {
         "display": "E. De La Cruz",
-        "team": "?",
+        "team": "Cincinnati Reds",
         "value": "11"
       }
     ],
     "rbi": [
       {
         "display": "L. Hicks",
-        "team": "?",
+        "team": "Miami Marlins",
         "value": "42"
       },
       {
         "display": "A. Pages",
-        "team": "?",
+        "team": "Los Angeles Dodgers",
         "value": "41"
       },
       {
         "display": "C. Abrams",
-        "team": "?",
+        "team": "Washington Nationals",
         "value": "39"
       },
       {
         "display": "D. Baldwin",
-        "team": "?",
+        "team": "Atlanta Braves",
         "value": "38"
       },
       {
         "display": "M. Olson",
-        "team": "?",
+        "team": "Atlanta Braves",
         "value": "38"
       },
       {
         "display": "K. Schwarber",
-        "team": "?",
+        "team": "Philadelphia Phillies",
         "value": "36"
       },
       {
         "display": "J. Walker",
-        "team": "?",
+        "team": "St. Louis Cardinals",
         "value": "34"
       },
       {
         "display": "A. Burleson",
-        "team": "?",
+        "team": "St. Louis Cardinals",
         "value": "33"
       },
       {
         "display": "O. Cruz",
-        "team": "?",
+        "team": "Pittsburgh Pirates",
         "value": "32"
       },
       {
         "display": "S. Stewart",
-        "team": "?",
+        "team": "Cincinnati Reds",
         "value": "32"
       }
     ],
     "sb": [
       {
         "display": "E. P?rez",
-        "team": "?",
+        "team": "Miami Marlins",
         "value": "17"
       },
       {
         "display": "R. Ray",
-        "team": "?",
+        "team": "San Francisco Giants",
         "value": "10"
       },
       {
         "display": "J. Alvarado",
-        "team": "?",
+        "team": "Philadelphia Phillies",
         "value": "8"
       },
       {
         "display": "A. Abbott",
-        "team": "?",
+        "team": "Cincinnati Reds",
         "value": "7"
       },
       {
         "display": "S. Alcantara",
-        "team": "?",
+        "team": "Miami Marlins",
         "value": "7"
       },
       {
         "display": "E. Cabrera",
-        "team": "?",
+        "team": "Chicago Cubs",
         "value": "7"
       },
       {
         "display": "K. Freeland",
-        "team": "?",
+        "team": "Colorado Rockies",
         "value": "7"
       },
       {
         "display": "M. Keller",
-        "team": "?",
+        "team": "Pittsburgh Pirates",
         "value": "7"
       },
       {
         "display": "M. Liberatore",
-        "team": "?",
+        "team": "St. Louis Cardinals",
         "value": "7"
       },
       {
         "display": "R. L?pez",
-        "team": "?",
+        "team": "Atlanta Braves",
         "value": "7"
       }
     ],
     "era": [
       {
         "display": "C. S?nchez",
-        "team": "?",
+        "team": "Philadelphia Phillies",
         "value": "1.82"
       },
       {
         "display": "C. Burns",
-        "team": "?",
+        "team": "Cincinnati Reds",
         "value": "1.87"
       },
       {
         "display": "C. Sale",
-        "team": "?",
+        "team": "Atlanta Braves",
         "value": "1.96"
       },
       {
         "display": "B. Elder",
-        "team": "?",
+        "team": "Atlanta Braves",
         "value": "2.01"
       },
       {
         "display": "M. McGreevy",
-        "team": "?",
+        "team": "St. Louis Cardinals",
         "value": "2.10"
       },
       {
         "display": "J. Misiorowski",
-        "team": "?",
+        "team": "Milwaukee Brewers",
         "value": "2.12"
       },
       {
         "display": "M. King",
-        "team": "?",
+        "team": "San Diego Padres",
         "value": "2.31"
       },
       {
         "display": "C. Holmes",
-        "team": "?",
+        "team": "New York Mets",
         "value": "2.39"
       },
       {
         "display": "J. Wrobleski",
-        "team": "?",
+        "team": "Los Angeles Dodgers",
         "value": "2.49"
       },
       {
         "display": "E. Rodriguez",
-        "team": "?",
+        "team": "Arizona Diamondbacks",
         "value": "2.53"
       }
     ],
     "wins": [
       {
         "display": "A. Ashby",
-        "team": "?",
+        "team": "Milwaukee Brewers",
         "value": "8"
       },
       {
         "display": "C. Sale",
-        "team": "?",
+        "team": "Atlanta Braves",
         "value": "6"
       },
       {
         "display": "P. Skenes",
-        "team": "?",
+        "team": "Pittsburgh Pirates",
         "value": "6"
       },
       {
         "display": "M. Soroka",
-        "team": "?",
+        "team": "Arizona Diamondbacks",
         "value": "6"
       },
       {
         "display": "J. Wrobleski",
-        "team": "?",
+        "team": "Los Angeles Dodgers",
         "value": "6"
       },
       {
         "display": "C. Burns",
-        "team": "?",
+        "team": "Cincinnati Reds",
         "value": "5"
       },
       {
         "display": "K. Leahy",
-        "team": "?",
+        "team": "St. Louis Cardinals",
         "value": "5"
       },
       {
         "display": "L. Roupp",
-        "team": "?",
+        "team": "San Francisco Giants",
         "value": "5"
       },
       {
         "display": "C. S?nchez",
-        "team": "?",
+        "team": "Philadelphia Phillies",
         "value": "5"
       },
       {
         "display": "R. V?squez",
-        "team": "?",
+        "team": "San Diego Padres",
         "value": "5"
       }
     ],
     "saves": [
       {
         "display": "M. Miller",
-        "team": "?",
+        "team": "San Diego Padres",
         "value": "14"
       },
       {
         "display": "R. O'Brien",
-        "team": "?",
+        "team": "St. Louis Cardinals",
         "value": "13"
       },
       {
         "display": "P. Sewald",
-        "team": "?",
+        "team": "Arizona Diamondbacks",
         "value": "10"
       },
       {
         "display": "J. Duran",
-        "team": "?",
+        "team": "Philadelphia Phillies",
         "value": "8"
       },
       {
         "display": "R. Iglesias",
-        "team": "?",
+        "team": "Atlanta Braves",
         "value": "8"
       },
       {
         "display": "E. Pag?n",
-        "team": "?",
+        "team": "Cincinnati Reds",
         "value": "6"
       },
       {
         "display": "D. Williams",
-        "team": "?",
+        "team": "New York Mets",
         "value": "6"
       },
       {
         "display": "P. Fairbanks",
-        "team": "?",
+        "team": "Miami Marlins",
         "value": "5"
       },
       {
         "display": "T. Megill",
-        "team": "?",
+        "team": "Milwaukee Brewers",
         "value": "5"
       },
       {
         "display": "E. D?az",
-        "team": "?",
+        "team": "Los Angeles Dodgers",
         "value": "4"
       }
     ],
     "strikeouts": [
       {
         "display": "J. Misiorowski",
-        "team": "?",
+        "team": "Milwaukee Brewers",
         "value": "80"
       },
       {
         "display": "C. S?nchez",
-        "team": "?",
+        "team": "Philadelphia Phillies",
         "value": "80"
       },
       {
         "display": "N. McLean",
-        "team": "?",
+        "team": "New York Mets",
         "value": "64"
       },
       {
         "display": "C. Sale",
-        "team": "?",
+        "team": "Atlanta Braves",
         "value": "64"
       },
       {
         "display": "P. Skenes",
-        "team": "?",
+        "team": "Pittsburgh Pirates",
         "value": "63"
       },
       {
         "display": "S. Imanaga",
-        "team": "?",
+        "team": "Chicago Cubs",
         "value": "61"
       },
       {
         "display": "J. Luzardo",
-        "team": "?",
+        "team": "Philadelphia Phillies",
         "value": "61"
       },
       {
         "display": "M. Meyer",
-        "team": "?",
+        "team": "Miami Marlins",
         "value": "60"
       },
       {
         "display": "M. King",
-        "team": "?",
+        "team": "San Diego Padres",
         "value": "59"
       },
       {
         "display": "E. P?rez",
-        "team": "?",
+        "team": "Miami Marlins",
         "value": "58"
       }
     ]
